@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IzickServer", "IzickServer\IzickServer.csproj", "{E7DD2DCC-699F-4F01-8354-5FB777A02342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IzickClient", "IzickClient\IzickClient.csproj", "{AA4F48C0-D830-482C-AA85-F02F2804FD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DD2DCC-699F-4F01-8354-5FB777A02342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DD2DCC-699F-4F01-8354-5FB777A02342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DD2DCC-699F-4F01-8354-5FB777A02342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DD2DCC-699F-4F01-8354-5FB777A02342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4F48C0-D830-482C-AA85-F02F2804FD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4F48C0-D830-482C-AA85-F02F2804FD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4F48C0-D830-482C-AA85-F02F2804FD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4F48C0-D830-482C-AA85-F02F2804FD56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
